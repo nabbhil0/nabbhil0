@@ -1,3 +1,7 @@
+github is cool
+
+
+<!--
 - 👋 Hi, I’m @nabbhil0
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
